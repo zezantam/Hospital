@@ -1,0 +1,2 @@
+Mr John Doe, 21,"{1=>2013-10-01 Entered hospital complaining of internal pains, 2=>2013-10-02 Diagnosed with cancer}"
+Ms Jane Anybody,25,"{1=>2013-10-02 Admitted to hospital pregnant and in labour,2=>2013-10-03 Birthed son}"
